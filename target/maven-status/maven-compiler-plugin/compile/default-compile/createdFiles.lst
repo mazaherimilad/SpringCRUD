@@ -1,0 +1,3 @@
+com\RestApiAngular\Project\ProjectApplication.class
+com\RestApiAngular\Project\controller\UserController.class
+com\RestApiAngular\Project\users\bean\User.class
